@@ -1,0 +1,3 @@
+urls:
+  transactions: /transactions
+  statistics: /statistics
